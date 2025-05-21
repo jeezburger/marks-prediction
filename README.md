@@ -1,6 +1,6 @@
 # Marks Prediction Using Simple Linear Regression
 
-This project implements a simple linear regression model to predict exam marks based on the number of hours studied. The model is trained using data collected from my endsem results.
+This project implements a simple linear regression model to predict my exam marks based on the number of hours I studied. The model is trained using data collected from my endsem results.
 I recorded the hours using [Pomofocus](https://pomofocus.io).
 
 
